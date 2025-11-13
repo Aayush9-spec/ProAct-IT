@@ -182,5 +182,3 @@ This project is open source and available under the [MIT License](LICENSE).
 * Encourages contributions and practice with common standards
 
 Let me know if you'd like it customized further—say, with example Supabase setup, or deployment instructions specific to Netlify or Vercel!
-
-[1]: https://github.com/Aayush9-spec/ProAct-IT "GitHub - Aayush9-spec/ProAct-IT"
